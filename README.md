@@ -1,7 +1,7 @@
-# writtingskills
-Some skills of English research paper writing
+# Some skills of English research paper writing by Jun Liu, Meng Wang, Xinyue Zhang
+#（一些英文学术论文写作中的小技巧） 由刘均，王萌，张欣悦编写整理
 
-论文自我检查条目（ver 0.1 by 王萌）
+论文自我检查条目（by 王萌 刘均 张欣悦）
 逻辑结构与内容组织	语言表述	形式格式
 	全文消除第三人称单数、an等语法问题，可使用语法检查工具消除初级错误
 	如果目标期刊或会议提供了latex模板，使用latex编辑软件
